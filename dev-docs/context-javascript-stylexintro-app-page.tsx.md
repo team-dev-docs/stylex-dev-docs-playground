@@ -1,7 +1,7 @@
 # StyleX Quickstart
 
 
-Welcome to the stylex simple tutorial quickstart. The goal of this tutorial is a 2 minute of project using <code>styleX</code> and <code>Next.js</code>.
+Welcome to the styleX simple tutorial quickstart. The goal of this tutorial is a 2 minute setup of a project using <code>styleX</code> and <code>Next.js</code>.
 
 
 ## Step One: Cd into the Next Directory
