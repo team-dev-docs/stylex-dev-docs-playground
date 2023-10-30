@@ -8,7 +8,7 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "javascript/stylexintro/stylexintro.js"
+        "javascript/stylexintro/app/page.tsx"
       ]
     }
   }
