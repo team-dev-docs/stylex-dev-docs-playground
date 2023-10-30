@@ -4,7 +4,7 @@
 Welcome to the stylex simple tutorial quickstart. The goal of this tutorial is a 2 minute of project using <code>styleX</code> and <code>Next.js</code>.
 
 
-## Step Zero: Cd into the Next Directory
+## Step One: Cd into the Next Directory
 
 ```devdocs_run
 
@@ -12,7 +12,7 @@ cd javascript/stylexintro/app
 
 ```
 
-## Step One: Install the Pacakges
+## Step Two: Install the Packages
 
 ```devdocs_run
 
@@ -20,7 +20,7 @@ npm install
 
 ```
 
-## Step Two: run the Project
+## Step Three: run the Project
 
 The modules should be installed already, so just run the project
 
@@ -31,6 +31,8 @@ npm run dev
 ```
 
 Codepsaces should show a popup.  Click on the button with the text <code>Open in Browser</code>
+
+Note it can take a minute for the page to load!
 
 
 ## Step Three: Edit page.tsx
